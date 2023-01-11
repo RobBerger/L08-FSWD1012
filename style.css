@@ -6,6 +6,11 @@
 
 .navbar {
     display: flex;
+    justify-content: end;
+}
+
+.navbar h1 {
+    padding: 5px 10px 5px 10px;
 }
 
 #contact {
